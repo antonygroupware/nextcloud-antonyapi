@@ -27,5 +27,17 @@ return [
 			'verb' => 'PUT', 
 			'requirements' => $requirements
 		],
+		[
+		  'name' => 'AntonyAPI#version', 
+		  'url' => '/version', 
+		  'verb' => 'GET', 
+		  'requirements' => $requirements
+	  ],
+  		[
+			'name' => 'AntonyAPI#checkDeleteProjectFolder', 
+			'url' => '/', 
+			'verb' => 'DELETE', 
+			'requirements' => $requirements
+		],
   	],
 ];

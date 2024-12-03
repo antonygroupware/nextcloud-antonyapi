@@ -9,7 +9,7 @@
     <name>Antony Api</name>
     <summary>antony Groupware Nextcloud Modul Plugin</summary>
     <description><![CDATA[Dieses Plugin erweitert die Funktionen der antony Groupware in Verbindung mit dem Nextcloud-Modul.]]></description>
-    <version>0.0.1-beta.1</version>
+    <version>0.0.3</version>
     <licence>agpl</licence>
     <author mail="info@die-groupware.de" homepage="https://www.die-groupware.de">antony Groupware GmbH</author>
     <namespace>AntonyApi</namespace>
